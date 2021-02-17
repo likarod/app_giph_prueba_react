@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App-content {
+  background: #282c31;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: colum;
+  align-content: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: wheat;
+}
